@@ -1,4 +1,5 @@
 ﻿using System;
+using ExceptionLibrary;
 
 namespace CSharpErrorHandling
 {
@@ -6,8 +7,9 @@ namespace CSharpErrorHandling
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine();
+            DemoCode demo = new DemoCode();
+            int result = demo.GrandparentMethod();
+            Console.WriteLine($"The value at the given position is { result }");
             Console.ReadLine();
         }
     }
