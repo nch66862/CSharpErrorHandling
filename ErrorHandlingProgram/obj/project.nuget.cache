@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c28RYvWqYD7dbtHcfAqRpbMKAiDHdBrEWU4uYPyoVyfpf0LBMk6mgeoxmr3yjjst4J4A4U7KWLzJsbz/a9I5Xw==",
+  "dgSpecHash": "wqmUeAYVxbNxB0AyktdTsZOVjzaUMB/GWLZvvXRxMbQbHn61rJoMqeNJAgnhLqDa23+iBXV5M+2uRhCi/HRZXg==",
   "success": true,
-  "projectFilePath": "/Users/nickcarver/workspace/CSharpErrorHandling/CSharpErrorHandling.csproj",
+  "projectFilePath": "/Users/nickcarver/workspace/CSharpErrorHandling/ErrorHandlingProgram/CSharpErrorHandling.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

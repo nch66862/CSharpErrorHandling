@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nickcarver/workspace/CSharpErrorHandling/CSharpErrorHandling.csproj": {}
+    "/Users/nickcarver/workspace/CSharpErrorHandling/ErrorHandlingProgram/CSharpErrorHandling.csproj": {}
   },
   "projects": {
-    "/Users/nickcarver/workspace/CSharpErrorHandling/CSharpErrorHandling.csproj": {
+    "/Users/nickcarver/workspace/CSharpErrorHandling/ErrorHandlingProgram/CSharpErrorHandling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nickcarver/workspace/CSharpErrorHandling/CSharpErrorHandling.csproj",
+        "projectUniqueName": "/Users/nickcarver/workspace/CSharpErrorHandling/ErrorHandlingProgram/CSharpErrorHandling.csproj",
         "projectName": "CSharpErrorHandling",
-        "projectPath": "/Users/nickcarver/workspace/CSharpErrorHandling/CSharpErrorHandling.csproj",
+        "projectPath": "/Users/nickcarver/workspace/CSharpErrorHandling/ErrorHandlingProgram/CSharpErrorHandling.csproj",
         "packagesPath": "/Users/nickcarver/.nuget/packages/",
-        "outputPath": "/Users/nickcarver/workspace/CSharpErrorHandling/obj/",
+        "outputPath": "/Users/nickcarver/workspace/CSharpErrorHandling/ErrorHandlingProgram/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nickcarver/.nuget/NuGet/NuGet.Config"
